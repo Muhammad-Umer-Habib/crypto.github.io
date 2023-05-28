@@ -17,7 +17,7 @@ function Footer() {
                 <Text fontWeight={"bold"}> About Us </Text>
                 <Text fontSize={"sm"} letterSpacing={"widest"}
                     textAlign={["center", "left"]}>
-                    We are the Best Crypto App in Pakistan.
+                    We are the Best Crypto App in FSD Punjab Pakistan.
                     We provide our guidance and mentorship at a competitve price.
                 </Text>
             </VStack>
